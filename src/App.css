@@ -26,6 +26,8 @@
     height: 70px;
     background: none;
 }
+
+
 .box-item>a{
   /* position: static; */
   top: -7px;
